@@ -95,4 +95,3 @@ function prompt_steeef_simplified_setup {
 }
 
 prompt_steeef_simplified_setup "$@"
-

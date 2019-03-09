@@ -1,0 +1,20 @@
+pane	0	1	:Editor	1	:*	1	:/home/hieunm/go/src/gitlab.com/attrace/core	1	emacs	:emacs -nw
+pane	0	2	:Peers Log	0	:	1	:/home/hieunm/go/src/gitlab.com/attrace/core	0	zsh	:
+pane	0	2	:Peers Log	0	:	2	:/home/hieunm/go/src/gitlab.com/attrace/core	0	zsh	:
+pane	0	2	:Peers Log	0	:	3	:/home/hieunm/go/src/gitlab.com/attrace/core	0	zsh	:
+pane	0	2	:Peers Log	0	:	4	:/home/hieunm/go/src/gitlab.com/attrace/core	0	zsh	:
+pane	0	2	:Peers Log	0	:	5	:/home/hieunm/go/src/gitlab.com/attrace/core	0	zsh	:
+pane	0	2	:Peers Log	0	:	6	:/home/hieunm/go/src/gitlab.com/attrace/core	1	zsh	:
+pane	0	3	:Chain monitor	0	:	1	:/home/hieunm/go/src/gitlab.com/attrace/core/devnet	1	zsh	:
+pane	0	4	:Anything Else	0	:-	1	:/home/hieunm/.tmux/resurrect	1	zsh	:
+pane	1	1	:Editor	1	:*	1	:/home/hieunm	1	zsh	:
+pane	2	1	:Peer Log	1	:*	1	:/home/hieunm	1	zsh	:
+pane	4	1	:Editor	1	:*	1	:/home/hieunm	1	zsh	:
+window	0	1	1	:*	c11e,266x73,0,0,1
+window	0	2	0	:	824b,266x73,0,0{84x73,0,0[84x36,0,0,2,84x36,0,37,13],95x73,85,0[95x36,85,0,3,95x36,85,37,12],85x73,181,0[85x36,181,0,9,85x36,181,37,10]}
+window	0	3	0	:	c121,266x73,0,0,4
+window	0	4	0	:-	c122,266x73,0,0,5
+window	1	1	1	:*	b923,266x71,0,0,6
+window	2	1	1	:*	b924,266x71,0,0,7
+window	4	1	1	:*	b925,266x71,0,0,8
+state	0	4
